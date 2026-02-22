@@ -1,3 +1,16 @@
-body {
-    background-color: rgb(7, 7, 7);
+body{
+    background-color: black;
+    
+}
+
+.brand {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+/* BIAR CAROUSEL GA RAKSASA */
+.carousel img {
+  height: 350px;
+  object-fit: cover;
 }
